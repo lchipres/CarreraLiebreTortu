@@ -1,0 +1,10 @@
+C:\Users\USUARIO\source\repos\CarreraL\CarreraL\bin\Debug\CarreraL.exe.config
+C:\Users\USUARIO\source\repos\CarreraL\CarreraL\bin\Debug\CarreraL.exe
+C:\Users\USUARIO\source\repos\CarreraL\CarreraL\bin\Debug\CarreraL.pdb
+C:\Users\USUARIO\source\repos\CarreraL\CarreraL\obj\Debug\CarreraL.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\source\repos\CarreraL\CarreraL\obj\Debug\CarreraL.Form1.resources
+C:\Users\USUARIO\source\repos\CarreraL\CarreraL\obj\Debug\CarreraL.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\CarreraL\CarreraL\obj\Debug\CarreraL.csproj.GenerateResource.Cache
+C:\Users\USUARIO\source\repos\CarreraL\CarreraL\obj\Debug\CarreraL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\CarreraL\CarreraL\obj\Debug\CarreraL.exe
+C:\Users\USUARIO\source\repos\CarreraL\CarreraL\obj\Debug\CarreraL.pdb
